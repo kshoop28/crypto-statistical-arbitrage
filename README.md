@@ -1,2 +1,2 @@
 # crypto-statistical-arbitrage
-Backtesting momentum and mean-reversion strategies across cryptocurrencies using Python.
+Backtesting momentum and mean-reversion strategies across cryptocurrencies.
