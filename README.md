@@ -1,6 +1,6 @@
 # crypto-statistical-arbitrage
 
-Took twenty crypto tickers based on market cap and ran momentum + reversion strategies.
+Took twelve unique crypto tickers based on market cap and ran momentum + reversion strategies.
 
 Provided weighting of different strategies.
 
